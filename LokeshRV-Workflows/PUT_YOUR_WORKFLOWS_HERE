@@ -1,0 +1,14 @@
+Place your ComfyUI workflow .json files in this folder.
+
+When your friends run ComfyUI-Easy-Install-LokeshRV.bat, these workflows
+will be automatically installed into:
+
+  ComfyUI/user/default/workflows/Lokesh RV/
+
+How to export a workflow from ComfyUI:
+  1. Open ComfyUI in your browser
+  2. Load the workflow you want to share
+  3. Click the floppy-disk icon (Save) → "Export (API format)" or just "Export"
+  4. Save the .json file into this folder
+
+Then share the entire zip (bat + Helper-CEI.zip + this folder) with your friends.
